@@ -84,7 +84,7 @@ Don't have Power BI? View the PDF export or the preview image above.
 - Unit cost and unit price are shown as sums, which are not very meaningful. Average unit cost and average unit price would be better.
 - Order priority appears as codes (C, L, H, M) and could be expanded to readable labels.
 - Planned improvements: add a monthly or yearly revenue trend, add a profit margin card, replace the donut chart with a sorted bar chart, and upgrade the map visual to Azure Maps.
--  ***Toyota logo** there was just a practice logo.
+-  **Toyota logo** there was just a practice logo.
 
 ## Author
 
